@@ -5,7 +5,7 @@ import threading
 from datetime import datetime
 import random
 
-coordinates_x, coordinates_y, time_click, sleep_sec, work_sec = 0,0,0,0,0
+coordinates_x, coordinates_y, time_click, sleep_sec, work_sec = 1,1,1,1,1
 
 
 def config_read():
