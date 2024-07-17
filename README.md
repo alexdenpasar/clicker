@@ -1,6 +1,6 @@
 # Auto clicker
 
-	Service for automatically pressing a mouse key at specified coordinates.
+ Service for automatically pressing a mouse key at specified coordinates.
 	
 ## CONFIG.INI
 - **coordinates_x** and **coordinates_y** - coordinates of the point on the screen that you want to click on (for example, 400 and 300).
@@ -10,5 +10,4 @@
 - **time_work** - clicker operating time before pause. Specified in seconds (for example, 600 seconds).
 	
 - **time_sleep** - clicker pause time in seconds (for example, 30).
-	
-Auto clicker
+
